@@ -1,5 +1,5 @@
 import JikanHome from './JikanHome';
-import WaifuHome from './WaifuHome'
+import WaifuHome from './WaifuHome';
 
 const HomeContainer = () => {
     return ( 

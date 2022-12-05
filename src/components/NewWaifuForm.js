@@ -1,8 +1,8 @@
 
-const NewWaifuForm = () => {
+const NewWaifuCard = () => {
     return (
         <div></div>
     );
 };
 
-export default NewWaifuForm;
+export default NewWaifuCard;

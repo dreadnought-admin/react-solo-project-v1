@@ -1,6 +1,10 @@
+import WaifuContainer from "./WaifuContainer"
+
 const WaifuHome = () => {
     return (
-        <div></div>
+        <div>
+            <WaifuContainer />
+        </div>
     );
 };
 

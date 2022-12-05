@@ -2,7 +2,9 @@ import JikanList from './JikanList';
 
 const JikanHome = () => {
     return (
-        <JikanList />
+        <div>
+            <JikanList />
+        </div>
     );
 };
 
