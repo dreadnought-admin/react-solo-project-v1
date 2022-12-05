@@ -3,13 +3,15 @@ import { Switch } from 'react-router-dom'
 import { useState, useEffect } from "react";
 
 import Header from "./components/Header";
-import Home from './components/Home'
+import Footer from "./components/Footer";
+import Main from "./components/Main";
 
 const App = () => {
     return (
         <div>
             <Header />
-            <Home />
+            <Main />
+            <Footer />
         </div>
     );
 };
